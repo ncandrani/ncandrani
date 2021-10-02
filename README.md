@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nur Candrani
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming Language
-- 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me nurcandrani311@gmail.com
 
 <!---
